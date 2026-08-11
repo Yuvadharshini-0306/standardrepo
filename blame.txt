@@ -1,0 +1,3 @@
+application started
+server running
+monitoring enabled
