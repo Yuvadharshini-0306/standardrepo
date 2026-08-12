@@ -1,0 +1,4 @@
+server started 
+apllication running
+database connected
+monitoring enabled 
