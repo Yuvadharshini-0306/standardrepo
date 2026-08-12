@@ -1,4 +1,4 @@
 server started 
-apllication running
+modified line
 database connected
 monitoring enabled 
